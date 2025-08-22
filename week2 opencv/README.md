@@ -10,7 +10,8 @@ This project demonstrates real-time multi-stream video processing with motion de
 
    ```bash
    git clone https://github.com/Ishan1819/opencv-week2.git
-   cd opencv-week2
+   cd week2 opencv
+   cd codes
    ```
 
 2. Install dependencies:
